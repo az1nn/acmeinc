@@ -4,7 +4,7 @@
 
 <hr/>
 
-<p>Sistema de compras, criado em React, usando styled</p>
+<p>Sistema de compras, criado em React, usando styled components</p>
 
 
 
